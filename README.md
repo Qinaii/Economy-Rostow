@@ -15,3 +15,5 @@ Including all territories:
 * wild_boar_territories
 * wolf_territories
 * zombie_territories
+
+Greetings Pure Dizzy - Qinaii
