@@ -20,3 +20,6 @@ Greetings Pure Dizzy - Qinaii
 
 # Expansion mpmission
 [https://github.com/Qinaii/Expansion.Rostow](https://github.com/Qinaii/Expansion.Rostow)
+
+# DO NOT:
+Do not reupload these files anywhere without my permission.
