@@ -19,7 +19,6 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8841" z="8792" r="500"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6965" z="10619" r="500"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3689" z="9037" r="500"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10031" z="6944" r="500"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6979" z="7462" r="500"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2968" z="13559" r="500"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="12201" z="7833" r="500"/>
