@@ -1,5 +1,5 @@
 # Economy-Rostow
-Economy Editor files for Rostow without pre Tier locations
+Economy Editor files for Rostow (i added a example for a tier area list)
 
 Including all territories: 
 
